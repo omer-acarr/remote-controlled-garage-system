@@ -1,3 +1,6 @@
+<img width="1600" height="1200" alt="image" src="https://github.com/user-attachments/assets/2d9ce830-cde0-4645-96f5-eececa3a5f9c" />
+<img width="1200" height="1600" alt="image" src="https://github.com/user-attachments/assets/5cb93c27-0db3-4251-8a25-0b02542b6a3d" />
+
 # STM32 Automated Smart Barrier System
 
 This project is an embedded system developed using the **STM32F407G-DISC1** microcontroller. It implements a smart parking/garage barrier that detects vehicle proximity using dual ultrasonic sensors and controls a servo-mechanism with real-time feedback.
