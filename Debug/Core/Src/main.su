@@ -1,0 +1,9 @@
+../Core/Src/main.c:87:6:door_open	8	static
+../Core/Src/main.c:99:6:door_close	8	static
+../Core/Src/main.c:115:5:main	48	static
+../Core/Src/main.c:311:6:SystemClock_Config	88	static
+../Core/Src/main.c:357:13:MX_I2C1_Init	8	static
+../Core/Src/main.c:391:13:MX_TIM1_Init	32	static
+../Core/Src/main.c:444:13:MX_TIM3_Init	48	static
+../Core/Src/main.c:493:13:MX_GPIO_Init	48	static
+../Core/Src/main.c:538:6:Error_Handler	4	static,ignoring_inline_asm
